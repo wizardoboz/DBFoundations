@@ -6,7 +6,7 @@
 -- 2022-08-15,KBoswell,Created File
 -- 2022-08-16,KBoswell,Modified File
 -- 2022-08-17,Kboswell,Completed File
--- Github repository link: 
+-- Github repository link: https://github.com/wizardoboz/DBFoundations
 --**************************************************************************--
 Begin Try
 	Use Master;
