@@ -415,7 +415,7 @@ Go
 --Question 7 Final Answer: Add the Functions and Wrapt it in a View
 Create or Alter View vProductInventoriesWithPreviousMonthCountsWithKPIs
 As
-Select 
+Select Top 10000
 	ProductName
 	,InventoryDate
 	,InventoryCount
@@ -426,6 +426,7 @@ Select
 		When InventoryCount < PreviousMonthCount Then -1
 		End
 From vProductInventoriesWithPreviousMonthCounts
+Order By ProductName, Month(InventoryDate)
 Go
 
 -- Important: This new view must use your vProductInventoriesWithPreviousMonthCounts view!
