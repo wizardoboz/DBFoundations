@@ -1,3 +1,7 @@
+Layout: Index
+Title: "INDEX"
+permalink: https://wizardoboz.github.io/DBFoundations/index/
+
 ### Name: Katie Boswell
 ### Date: August 17, 2022
 ### Course: IT FDN 130 A Su 22: Foundations of Databases & SQL Programming
