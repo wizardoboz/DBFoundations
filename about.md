@@ -1,6 +1,6 @@
 Layout: Index
 Title: "INDEX"
-permalink: https://wizardoboz.github.io/DBFoundations/index/
+permalink: https://wizardoboz.github.io/DBFoundations/about/
 
 ### Name: Katie Boswell
 ### Date: August 17, 2022
