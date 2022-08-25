@@ -1,5 +1,5 @@
-Layout: Index
-Title: "INDEX"
+Layout: About
+Title: "About"
 permalink: https://wizardoboz.github.io/DBFoundations/about/
 
 ### Name: Katie Boswell
