@@ -1,7 +1,3 @@
-Layout: About
-Title: "About"
-permalink: https://wizardoboz.github.io/DBFoundations/about/
-
 ### Name: Katie Boswell
 ### Date: August 17, 2022
 ### Course: IT FDN 130 A Su 22: Foundations of Databases & SQL Programming
