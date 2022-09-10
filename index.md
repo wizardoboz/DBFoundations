@@ -82,8 +82,10 @@ Begin
 Go
 --Test the Function
 --Select dbo.fGetCourseStartDate(1);
---Select IIF(Cast('1/1/2020 07:00:00' as datetime) < dbo.fGetCourseStartDate(1), 'True', 'False'), 'Before Start';
---Select IIF(Cast('1/1/2020 11:00:00' as datetime) < dbo.fGetCourseStartDate(1), 'True', 'False'), 'After Start';
+--Select IIF(Cast('1/1/2020 07:00:00' as datetime) < dbo.fGetCourseStartDate(1), 
+--'True', 'False'), 'Before Start';
+--Select IIF(Cast('1/1/2020 11:00:00' as datetime) < dbo.fGetCourseStartDate(1), 
+--'True', 'False'), 'After Start';
 --Go
 
 --Add check constraint that makes sure end date is greater than or equal to start date
