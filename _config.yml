@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Katie Boswell's Homepage
-description: UW Database Foundation course code
+description: UW Database Foundations course code
+markdown: kramdown
