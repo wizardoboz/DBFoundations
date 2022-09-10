@@ -1,8 +1,8 @@
 ### Name: Katie Boswell
 ### Date: September 09, 2022
-
+```
 --**********************************************************************************************--
--- Title: ITFND130Final
+-- Title: ITFnd130Final
 -- Author: KBoswell
 -- Desc: This file demonstrates how to design and create 
 --       tables, views, and stored procedures
@@ -903,6 +903,4 @@ Select Case @Status
 Select * From vCourses;
 go
 
---{ IMPORTANT!!! }--
--- To get full credit, your script must run without having to highlight individual statements!!!  
-/**************************************************************************************************/
+```
