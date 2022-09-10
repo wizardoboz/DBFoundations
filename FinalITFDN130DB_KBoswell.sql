@@ -900,6 +900,4 @@ Select Case @Status
 Select * From vCourses;
 go
 
---{ IMPORTANT!!! }--
--- To get full credit, your script must run without having to highlight individual statements!!!  
-/**************************************************************************************************/
+--All tested successfully!
